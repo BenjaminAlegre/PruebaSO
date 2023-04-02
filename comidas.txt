@@ -5,3 +5,4 @@ Tomate
 Aceitunas
 Kiwis
 Mandarinas
+Peras
